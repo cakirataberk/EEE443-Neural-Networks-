@@ -13,4 +13,6 @@ In this tutorial, I investigated gradient checking.
 ### Tutorial 4
 In this tutorial, I learned about residual learning in Convolutional Neural Networks (CNN), in particular ResNet architectures using Keras.
 - [Code](https://github.com/cakirataberk/EEE443-Neural-Networks-/blob/main/Tutorial%204/Tutorial%204.ipynb)
-
+### Tutorial 5
+In this tutorial, Ilearned to implement different optimizers utilized in neural network training. 
+- [Code](https://github.com/cakirataberk/EEE443-Neural_Networks/blob/main/Tutorial%205/optimizers.ipynb)
